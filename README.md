@@ -1,2 +1,2 @@
 # MAViT
-MAViT
+Is preparing...
